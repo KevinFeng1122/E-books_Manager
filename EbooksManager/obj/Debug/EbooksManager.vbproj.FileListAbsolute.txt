@@ -1,0 +1,49 @@
+C:\Users\FENGYIFEI\AppData\Local\Temporary Projects\EbooksManager\bin\Debug\EbooksManager.exe
+C:\Users\FENGYIFEI\AppData\Local\Temporary Projects\EbooksManager\bin\Debug\EbooksManager.pdb
+C:\Users\FENGYIFEI\AppData\Local\Temporary Projects\EbooksManager\bin\Debug\EbooksManager.xml
+C:\Users\FENGYIFEI\AppData\Local\Temporary Projects\EbooksManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FENGYIFEI\AppData\Local\Temporary Projects\EbooksManager\obj\Debug\EbooksManager.frmDirectory_Manage.resources
+C:\Users\FENGYIFEI\AppData\Local\Temporary Projects\EbooksManager\obj\Debug\EbooksManager.Resources.resources
+C:\Users\FENGYIFEI\AppData\Local\Temporary Projects\EbooksManager\obj\Debug\EbooksManager.vbproj.GenerateResource.Cache
+C:\Users\FENGYIFEI\AppData\Local\Temporary Projects\EbooksManager\obj\Debug\EbooksManager.exe
+C:\Users\FENGYIFEI\AppData\Local\Temporary Projects\EbooksManager\obj\Debug\EbooksManager.xml
+C:\Users\FENGYIFEI\AppData\Local\Temporary Projects\EbooksManager\obj\Debug\EbooksManager.pdb
+F:\VS 2008 项目\EbooksManager\EbooksManager\EbooksManager\obj\Debug\EbooksManager.exe
+F:\VS 2008 项目\EbooksManager\EbooksManager\EbooksManager\obj\Debug\EbooksManager.xml
+F:\VS 2008 项目\EbooksManager\EbooksManager\EbooksManager\obj\Debug\EbooksManager.pdb
+F:\VS 2008 项目\EbooksManager\EbooksManager\EbooksManager\bin\Debug\EbooksManager.exe
+F:\VS 2008 项目\EbooksManager\EbooksManager\EbooksManager\bin\Debug\EbooksManager.pdb
+F:\VS 2008 项目\EbooksManager\EbooksManager\EbooksManager\bin\Debug\EbooksManager.xml
+F:\VS 2008 项目\EbooksManager\EbooksManager\EbooksManager\obj\Debug\ResolveAssemblyReference.cache
+F:\VS 2008 项目\EbooksManager\EbooksManager\EbooksManager\obj\Debug\EbooksManager.Resources.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\EbooksManager\obj\Debug\EbooksManager.vbproj.GenerateResource.Cache
+F:\VS 2008 项目\EbooksManager\EbooksManager\EbooksManager\obj\Debug\EbooksManager.frmManage_Directory.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\EbooksManager\obj\Debug\EbooksManager.frmView_Information.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\EbooksManager\obj\Debug\EbooksManager.frmStart_Window.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Debug\ResolveAssemblyReference.cache
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Debug\EbooksManager.frmManage_Directory.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Debug\EbooksManager.frmView_Information.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Debug\EbooksManager.frmStart_Window.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Debug\EbooksManager.Resources.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Debug\EbooksManager.vbproj.GenerateResource.Cache
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Debug\EbooksManager.frmClass_Edit_Information.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Debug\EbooksManager.class_from_Select_Class1.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Debug\EbooksManager.class_form_Select_Class2.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Debug\EbooksManager.class_form_add_into_booklist_batch.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Debug\EbooksManager.class_form_Add_into_booklist_single.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Debug\EbooksManager.Change_Class1_Batch.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Debug\EbooksManager.Change_Class2_Batch.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Debug\EbooksManager.Search_Internet.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Debug\EbooksManager.Change_Class_Batch.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Debug\EbooksManager.class_form_Manage_Booklist.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\VS 2008 项目\EbooksManager\EbooksManager\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\VS 2008 项目\EbooksManager\EbooksManager\bin\Debug\office.dll
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Debug\EbooksManager.class_form_Recent_Opened_Files.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\bin\Debug\电子文档管理器.exe
+F:\VS 2008 项目\EbooksManager\EbooksManager\bin\Debug\电子文档管理器.pdb
+F:\VS 2008 项目\EbooksManager\EbooksManager\bin\Debug\电子文档管理器.xml
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Debug\电子文档管理器.exe
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Debug\电子文档管理器.xml
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Debug\电子文档管理器.pdb
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Debug\EbooksManager.Statement.resources

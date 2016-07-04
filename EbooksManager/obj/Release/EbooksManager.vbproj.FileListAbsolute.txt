@@ -1,0 +1,36 @@
+F:\VS 2008 项目\EbooksManager\EbooksManager\bin\Release\电子文档管理器.exe
+F:\VS 2008 项目\EbooksManager\EbooksManager\bin\Release\电子文档管理器.pdb
+F:\VS 2008 项目\EbooksManager\EbooksManager\bin\Release\电子文档管理器.xml
+F:\VS 2008 项目\EbooksManager\EbooksManager\bin\Release\Microsoft.Office.Interop.Excel.dll
+F:\VS 2008 项目\EbooksManager\EbooksManager\bin\Release\Microsoft.Vbe.Interop.dll
+F:\VS 2008 项目\EbooksManager\EbooksManager\bin\Release\office.dll
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Release\ResolveAssemblyReference.cache
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Release\EbooksManager.class_form_add_into_booklist_batch.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Release\EbooksManager.class_form_Add_into_booklist_single.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Release\EbooksManager.Change_Class1_Batch.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Release\EbooksManager.Change_Class2_Batch.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Release\EbooksManager.class_form_Manage_Booklist.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Release\EbooksManager.class_form_Recent_Opened_Files.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Release\EbooksManager.Search_Internet.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Release\EbooksManager.Change_Class_Batch.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Release\EbooksManager.frmManage_Directory.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Release\EbooksManager.frmView_Information.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Release\EbooksManager.frmStart_Window.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Release\EbooksManager.frmClass_Edit_Information.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Release\EbooksManager.class_from_Select_Class1.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Release\EbooksManager.class_form_Select_Class2.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Release\EbooksManager.Resources.resources
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Release\EbooksManager.vbproj.GenerateResource.Cache
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Release\电子文档管理器.exe
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Release\电子文档管理器.xml
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Release\电子文档管理器.pdb
+F:\VS 2008 项目\EbooksManager\EbooksManager\obj\Release\EbooksManager.Statement.resources
+X:\VB软件代码\电子文档管理器代码\EbooksManager\obj\Release\电子文档管理器.exe
+X:\VB软件代码\电子文档管理器代码\EbooksManager\obj\Release\电子文档管理器.xml
+X:\VB软件代码\电子文档管理器代码\EbooksManager\obj\Release\电子文档管理器.pdb
+F:\项目\电子文档管理器\电子文档管理器代码\EbooksManager\obj\Release\电子文档管理器.exe
+F:\项目\电子文档管理器\电子文档管理器代码\EbooksManager\obj\Release\电子文档管理器.xml
+F:\项目\电子文档管理器\电子文档管理器代码\EbooksManager\obj\Release\电子文档管理器.pdb
+E:\专业资料\项目\电子文档管理器\电子文档管理器代码\EbooksManager\obj\Release\电子文档管理器.exe
+E:\专业资料\项目\电子文档管理器\电子文档管理器代码\EbooksManager\obj\Release\电子文档管理器.xml
+E:\专业资料\项目\电子文档管理器\电子文档管理器代码\EbooksManager\obj\Release\电子文档管理器.pdb
