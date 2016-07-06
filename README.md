@@ -1,5 +1,7 @@
 # E-books_Manager
 
+This software was developed in 2012 Spring with sponsorship from Univ. of Sci & Tech. Beijing. An older version developed using VB 6 was abandoned in that the programming language and the user interface are rather outdated.
+
 Features:
 
 (1) Allowed users to classify their e-books according to multiple criteria e.g. author, publish date, topic – an innovative feature that contemporary e-book management software in Chinese market did not have. Please consider the Windows explorer for comparison.
