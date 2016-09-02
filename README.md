@@ -1,6 +1,8 @@
 # E-books_Manager
 
-[Screenshots of the software have been uploaded to show its function. Please view them in the "Screenshot" folder.]
+-----------------------------------------------------------------------------------------------------------------
+Screenshots of the software have been uploaded to show its function. Please view them in the "Screenshot" folder.
+-----------------------------------------------------------------------------------------------------------------
 
 This software was developed in 2012 Spring with sponsorship from Univ. of Sci & Tech. Beijing. An older version developed using VB 6 was abandoned since the programming language and the user interface are rather outdated.
 
